@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4850",
-     "pnpm-instal": "pnpm install --no-frozen-lockfile",
+    "pnpm-instal": "pnpm install --no-frozen-lockfile",
     "pnpm-auto-update": "pnpm update",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
